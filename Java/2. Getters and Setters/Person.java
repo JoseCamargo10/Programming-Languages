@@ -1,7 +1,7 @@
 public class Person{
     private String name;
 
-    public String getName(){    // get is to access a value
+    public String getName(){    // getter is to access a value
         return name;
     }
 
